@@ -1,0 +1,49 @@
+.no_scroll {
+  height: 500px;
+  overflow: hidden;
+}
+
+.header-wrapper {
+  max-height: 200px;
+  border-bottom: 1px solid #333333;
+}
+
+.uk-panel-header h3 {
+  font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+  font-weight: bold;
+}
+
+.uk-article p {
+  font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+  font-weight: bold;
+}
+
+body {
+  height: 100%;
+  background-color: #F1F4F9;
+}
+
+iframe {
+  height: 90%;
+  width: 100%;
+}
+
+footer {
+  max-width: 100%;
+  background-color: #ffffff;
+  padding-top: 20px;
+  padding-bottom: 10px;
+  bottom: 0;
+}
+
+footer h3{
+  font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+  font-size: 16px;
+  color: #808080;
+}
+
+footer li{
+  font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+  font-size: 14px;
+  color: #808080;
+}
